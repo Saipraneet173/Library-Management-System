@@ -1,0 +1,21 @@
+ ID  , Genre     ,      Title              ,  Author          , Purchase price(£),Purchase date
+1,Classic    ,Price and Prejudice      ,Jane Austin       ,10,12/07/2017
+2,Fiction    ,Long shadows             ,David Baldacci    ,12,11/07/2017
+3,Non-Fiction,The dairy of a young girl,Anne Frank        ,12,10/07/2015
+4,Sci-Fi     ,Dune                     ,Frank Herbert     ,14,07/07/2021
+5,Classic    ,Romeo And Juliet         ,William Shakespear,13,09/03/2020
+6,Fiction    ,It starts with us: A novel,Colleen Hoover,14,09/03/2021
+7,Sci-Fi     ,Neuromancer,William Gibson ,13,04/03/2005
+8,Non-Fiction,The emperor of maladies ,Siddhartha Mukherjee,12,05/12/2013
+9,Fantasy,The name of the wind ,Patrick Rothfuss,11,06/12/2013
+10,Classic    ,Little Women,Louisa May Alcott,22,07/11/2012
+11,Mystery ,The girl on the train,Paula Hawkins,12,08/12/2015
+12,Fiction    ,It ends with us,Colleen Hoover,10,04/12/2013
+13,Sci-Fi     ,Snow Crash,Neal Stephson ,10,10/12/2013
+14,Mystery ,Gone Girl,Gillian Flynn,12,31/12/2015
+15,Fantasy,The priority of the orange Tree,Samantha Shannon,12,12/12/2013
+16,Horror,The shinning ,Stephen King ,23,13/12/2018
+17,Classic    ,Animal Farm,George Orwell,10,14/12/2019
+18,Mystery ,"Bluebird,Bluebird ",Attica Locke,6,21/08/2011
+19,Horror,Interview with the vampire,Anne rice,7,22/06/2017
+20,Fiction    ,The ink black heart,J.K. Rowling,9,23/08/2016
